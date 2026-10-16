@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/task_service.dir/services/task_service.cpp.o CMakeFiles/task_service.dir/src/task_repository.cpp.o CMakeFiles/task_service.dir/src/json_parser.cpp.o -o task_service 

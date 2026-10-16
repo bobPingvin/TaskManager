@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/user_service.dir/services/user_service.cpp.o -o user_service 

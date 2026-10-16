@@ -1,0 +1,8 @@
+/home/student/task-manager/build/CMakeFiles/task-manager.dir
+/home/student/task-manager/build/CMakeFiles/task_service.dir
+/home/student/task-manager/build/CMakeFiles/user_service.dir
+/home/student/task-manager/build/CMakeFiles/notify_service.dir
+/home/student/task-manager/build/CMakeFiles/rule_scrum.dir
+/home/student/task-manager/build/CMakeFiles/rule_waterfall.dir
+/home/student/task-manager/build/CMakeFiles/edit_cache.dir
+/home/student/task-manager/build/CMakeFiles/rebuild_cache.dir

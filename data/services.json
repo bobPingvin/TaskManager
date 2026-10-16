@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "name": "TaskService",
+      "executable": "bin/task_service",
+      "fifo": "ipc/task_req.fifo"
+    },
+    {
+      "name": "UserService",
+      "executable": "bin/user_service",
+      "fifo": "ipc/user_req.fifo"
+    },
+    {
+      "name": "NotifyService",
+      "executable": "bin/notify_service",
+      "fifo": "ipc/notify_req.fifo"
+    }
+  ]
+}

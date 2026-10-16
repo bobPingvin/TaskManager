@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -pedantic -shared -Wl,-soname,librule_waterfall.so -o librule_waterfall.so CMakeFiles/rule_waterfall.dir/plugins/rule_waterfall.cpp.o 

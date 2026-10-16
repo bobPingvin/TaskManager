@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Спроектировать UML Use Case",
+    "description": "Разработать текстовую диаграмму прецедентов",
+    "completed": true,
+    "assigned_user": "ivanov"
+  },
+  {
+    "id": 2,
+    "title": "Реализовать IPC через FIFO",
+    "description": "Настроить обмен сообщениями между микросервисами",
+    "completed": false,
+    "assigned_user": "petrov"
+  },
+  {
+    "id": 3,
+    "title": "Новая задача",
+    "description": "Проверка монолита",
+    "completed": false,
+    "assigned_user": "student"
+  },
+  {
+    "id": 4,
+    "title": "Микросервисный тикет",
+    "description": "Через FIFO канал",
+    "completed": false,
+    "assigned_user": "student"
+  }
+]

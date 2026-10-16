@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -pedantic -shared -Wl,-soname,librule_scrum.so -o librule_scrum.so CMakeFiles/rule_scrum.dir/plugins/rule_scrum.cpp.o 

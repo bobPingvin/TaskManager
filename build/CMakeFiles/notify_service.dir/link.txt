@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/notify_service.dir/services/notify_service.cpp.o -o notify_service 
